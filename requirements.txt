@@ -1,0 +1,5 @@
+flask
+flask_sqlalchemy
+socket
+mysql
+SQLAlchemy==1.4.22
